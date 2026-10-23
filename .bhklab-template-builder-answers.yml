@@ -1,0 +1,13 @@
+# Changes here will be overwritten by Copier
+_commit: 0.14.2
+_src_path: gh:bhklab/bhklab-project-template
+author_email: bhklab.farnooshabbasaghababazadeh@gmail.com
+author_full_name: Farnoosh Abbas Aghababazadeh
+github_username: RibaA
+has_additional_authors: false
+project_description: ''
+project_name: OCTANE tumor cases
+project_slug: octane-tumor-multiomics
+publish_to_github: true
+python_version: '3.12'
+repo_location: RibaA
